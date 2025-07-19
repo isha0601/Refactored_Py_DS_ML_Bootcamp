@@ -1,1 +1,2 @@
-# Refactored_Py_DS_ML_Bootcamp
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
